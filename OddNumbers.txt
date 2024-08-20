@@ -1,0 +1,27 @@
+public class OddNumbers {
+	public static void(string[] args){
+		
+		int answer, enter an interger ;
+		odd number = ;
+
+		Scanner input = new Scanner(System.in);
+		Enter an interger();
+
+
+		System.out.print(" ");
+			guess = input,nextInt();
+
+		if(guess < answer){
+		System,out.println("even number")
+		}
+		else{
+		    System.out.println( "odd number") + answer);
+		}
+		
+
+
+
+}
+}
+
+	
